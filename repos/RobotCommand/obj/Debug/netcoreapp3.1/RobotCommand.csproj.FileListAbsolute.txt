@@ -1,0 +1,13 @@
+C:\Users\Thane\source\repos\RobotCommand\bin\Debug\netcoreapp3.1\RobotCommand.exe
+C:\Users\Thane\source\repos\RobotCommand\bin\Debug\netcoreapp3.1\RobotCommand.deps.json
+C:\Users\Thane\source\repos\RobotCommand\bin\Debug\netcoreapp3.1\RobotCommand.runtimeconfig.json
+C:\Users\Thane\source\repos\RobotCommand\bin\Debug\netcoreapp3.1\RobotCommand.runtimeconfig.dev.json
+C:\Users\Thane\source\repos\RobotCommand\bin\Debug\netcoreapp3.1\RobotCommand.dll
+C:\Users\Thane\source\repos\RobotCommand\bin\Debug\netcoreapp3.1\RobotCommand.pdb
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.csprojAssemblyReference.cache
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.csproj.CoreCompileInputs.cache
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.AssemblyInfoInputs.cache
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.AssemblyInfo.cs
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.dll
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.pdb
+C:\Users\Thane\source\repos\RobotCommand\obj\Debug\netcoreapp3.1\RobotCommand.genruntimeconfig.cache
